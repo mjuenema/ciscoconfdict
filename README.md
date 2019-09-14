@@ -1,6 +1,8 @@
 ## ciscoconfdict
 
-A Python 3 package for parsing and analysing Cisco-style configurations. 
+A Python 3 package for parsing and analysing Cisco-style configurations.
+
+**THIS PROJECT IS CURRENTLY IN ITS PLANNING STAGE**
 
 **ciscoconfdict** is an abstraction layer on top of the excellent [ciscoconfparse](https://github.com/mpenning/ciscoconfparse) Python package. 
 It aims to make analysing existing network configurations as easy as possible by providing a filtering mechanism that emulates Python
